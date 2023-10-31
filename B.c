@@ -39,7 +39,7 @@ int main(){
 
     SH(1);
     scanf("%c" , &n);
-    if(n = 'y'){
+    if(n == 'y'){
         overflow(6,n);}
     return 0 ;
 }
